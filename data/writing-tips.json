@@ -1,0 +1,124 @@
+{
+  "tips": [
+    {
+      "id": "plot-1",
+      "title": "Start with Conflict",
+      "category": "plotting",
+      "content": "Begin your story as close to the central conflict as possible. Don't spend chapters setting up - throw your character into the action and let readers discover the background naturally through the story.",
+      "difficulty": "beginner",
+      "tags": ["opening", "pacing", "structure"]
+    },
+    {
+      "id": "char-1",
+      "title": "Give Characters Contradictions",
+      "category": "character",
+      "content": "The most interesting characters have internal contradictions. A brave hero who's afraid of spiders, a villain who loves animals - these contradictions make characters feel human and three-dimensional.",
+      "difficulty": "intermediate",
+      "tags": ["depth", "realism", "psychology"]
+    },
+    {
+      "id": "dial-1",
+      "title": "Read Dialogue Aloud",
+      "category": "dialogue",
+      "content": "Always read your dialogue out loud. If it sounds awkward or unnatural when spoken, it will read awkwardly too. Good dialogue should flow naturally and sound like real speech.",
+      "difficulty": "beginner",
+      "tags": ["revision", "authenticity", "voice"]
+    },
+    {
+      "id": "set-1",
+      "title": "Use Setting as Character",
+      "category": "setting",
+      "content": "Your setting shouldn't just be a backdrop - it should influence the plot and characters. A stormy night can create tension, a cluttered room can reveal character traits, a hostile environment can drive conflict.",
+      "difficulty": "intermediate",
+      "tags": ["atmosphere", "world-building", "mood"]
+    },
+    {
+      "id": "edit-1",
+      "title": "Kill Your Darlings",
+      "category": "editing",
+      "content": "Sometimes your most beautiful, clever writing doesn't serve the story. Be willing to cut scenes, characters, or passages that you love if they don't move the plot forward or develop character.",
+      "difficulty": "advanced",
+      "tags": ["revision", "self-editing", "structure"]
+    },
+    {
+      "id": "pub-1",
+      "title": "Research Your Market",
+      "category": "publishing",
+      "content": "Before submitting your work, research agents and publishers who represent your genre. A targeted approach to submissions is much more effective than a shotgun strategy.",
+      "difficulty": "intermediate",
+      "tags": ["agents", "submissions", "genre"]
+    },
+    {
+      "id": "plot-2",
+      "title": "Every Scene Must Serve Two Purposes",
+      "category": "plotting",
+      "content": "Each scene should either advance the plot OR develop character - ideally both. If a scene only does one thing, consider combining it with another scene or cutting it entirely.",
+      "difficulty": "intermediate",
+      "tags": ["structure", "pacing", "efficiency"]
+    },
+    {
+      "id": "char-2",
+      "title": "Character Goals Drive Story",
+      "category": "character",
+      "content": "Every major character should want something specific and urgent. This desire creates the engine that drives your story forward and gives readers a reason to keep reading.",
+      "difficulty": "beginner",
+      "tags": ["motivation", "goals", "drive"]
+    },
+    {
+      "id": "dial-2",
+      "title": "Use Subtext in Dialogue",
+      "category": "dialogue",
+      "content": "People rarely say exactly what they mean. Characters should often talk around subjects, hint at deeper meanings, or say one thing while meaning another. This creates layers and realism.",
+      "difficulty": "advanced",
+      "tags": ["subtext", "realism", "depth"]
+    },
+    {
+      "id": "set-2",
+      "title": "Research Settings Thoroughly",
+      "category": "setting",
+      "content": "Even fictional settings need internal consistency. Research similar real places, climates, cultures, or time periods to ground your invented world in realistic details.",
+      "difficulty": "intermediate",
+      "tags": ["research", "authenticity", "world-building"]
+    },
+    {
+      "id": "edit-2",
+      "title": "Edit for Different Elements Separately",
+      "category": "editing",
+      "content": "Don't try to fix everything in one pass. Do separate editing rounds for plot, character development, dialogue, pacing, and line-by-line prose. This focused approach catches more issues.",
+      "difficulty": "intermediate",
+      "tags": ["revision", "process", "technique"]
+    },
+    {
+      "id": "pub-2",
+      "title": "Platform Building Takes Time",
+      "category": "publishing",
+      "content": "Start building your author platform before you need it. Social media presence, email lists, and networking with other writers are investments that pay off when it's time to promote your book.",
+      "difficulty": "beginner",
+      "tags": ["marketing", "platform", "networking"]
+    },
+    {
+      "id": "plot-3",
+      "title": "Plant and Payoff",
+      "category": "plotting",
+      "content": "Set up important plot elements early in your story, then deliver on them later. This creates satisfying connections for readers and makes your ending feel earned rather than convenient.",
+      "difficulty": "intermediate",
+      "tags": ["foreshadowing", "structure", "payoff"]
+    },
+    {
+      "id": "char-3",
+      "title": "Character Voice Should Be Distinct",
+      "category": "character",
+      "content": "Each character should have a unique way of speaking that reflects their background, education, personality, and emotional state. Readers should be able to identify who's talking without dialogue tags.",
+      "difficulty": "advanced",
+      "tags": ["voice", "dialogue", "characterization"]
+    },
+    {
+      "id": "edit-3",
+      "title": "Cut Unnecessary Words",
+      "category": "editing",
+      "content": "Tighten your prose by eliminating redundant words and phrases. 'He shrugged his shoulders' becomes 'He shrugged.' 'She nodded her head' becomes 'She nodded.' Every word should earn its place.",
+      "difficulty": "beginner",
+      "tags": ["concision", "clarity", "style"]
+    }
+  ]
+}
