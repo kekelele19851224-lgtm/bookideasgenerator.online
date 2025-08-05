@@ -1,7 +1,7 @@
 import type { Metadata } from 'next'
 import Link from 'next/link'
 import { Navigation } from '@/components/Navigation'
-import { Search, Magnifying Glass, Eye, Fingerprint, Sparkles, BookOpen } from 'lucide-react'
+import { Search, Eye, Fingerprint, Sparkles, BookOpen } from 'lucide-react'
 
 export const metadata: Metadata = {
   title: 'Mystery Plot Generator | 1000+ Crime & Detective Story Ideas',
